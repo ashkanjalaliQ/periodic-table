@@ -316,7 +316,7 @@ var elements =
       ]
     },
     {
-      "name": "فلورین",
+      "name": "فلوئور",
       "appearance": null,
       "atomic_mass": 18.9984031636,
       "boil": 85.03,
@@ -4900,7 +4900,7 @@ var elements =
       "appearance": null,
       "atomic_mass": 294,
       "boil": 350,
-      "category": "unknown, predicted to be noble gas",
+      "category": "noble gas",
       "color": null,
       "density": 4.95,
       "discovered_by": "Joint Institute for Nuclear Research",
